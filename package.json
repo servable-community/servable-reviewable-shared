@@ -68,7 +68,7 @@
     }
   ],
   "peerDependencies": {
-    "servable-engine": "*"
+    "@servable/server": "*"
   },
   "devDependencies": {
     "@size-limit/preset-small-lib": "^4.10.2",
